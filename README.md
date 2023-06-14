@@ -26,7 +26,7 @@ These technologies were chosen for their widespread use, compatibility with web 
 ## 🛠 Installation and Setup Instructions
 
 1. git clone https://github.com/tawfik575/drum-bit.git
-2. cd gradient-background-color-generator
+2. cd drum-bit
 3. start index.html
 
 ## Contributing
