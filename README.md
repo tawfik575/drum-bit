@@ -1,6 +1,6 @@
 # Drum Bit
 
-Drum Bit is a dynamic and interactive website that allows users to play the drums using their mouse or keyboard. With its intuitive interface and responsive design, users can click on different drum buttons or press corresponding keyboard keys to produce a variety of drum sounds. The project, built with HTML, CSS, and vanilla JavaScript, provides visual and sound feedback, giving users an engaging drumming experience. Whether you're a music enthusiast or simply looking for some rhythmic fun, Drum Bit offers an enjoyable and accessible way to unleash your inner drummer.
+Drum Bit is a fun and interactive website that allows users to play the drums using their mouse or keyboard. With its intuitive interface and responsive design, users can click on different drum buttons or press corresponding keyboard keys to produce a variety of drum sounds. The project, built with HTML, CSS, and vanilla JavaScript, provides visual and sound feedback, giving users an engaging drumming experience. Whether you're a music enthusiast or simply looking for some rhythmic fun, Drum Bit offers an enjoyable and accessible way to unleash your inner drummer.
 
 ![my screenshot](./images/screenshot.png)
 
